@@ -1,20 +1,14 @@
 ```c++
-matthew->print_profile_greeting();
+const auto& author = repo.author();
+std::cout << author.greeting();
 ```
 
-🔭 I am working on backporting modern C++ to work with C++11, and other cool projects. 
+👋 Hi, I'm `@bitwizeshift`. I'm an expert modern C++ developer with over a decade of experience, a [C++ blogger][blog], and hobbiest open-source creator. 
 
-<!--
-**bitwizeshift/bitwizeshift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like solving hard problems and working on cool projects. Check out some of my projects!
 
-Here are some ideas to get you started:
+If you like any of my work, please consider [becoming a Github sponsor][sponsor] or even just [buying me a coffee][coffee]! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[blog]: https://bitwizeshift.github.io
+[sponsor]: https://github.com/sponsors/bitwizeshift
+[coffee]: https://www.buymeacoffee.com/dsq3XCcBE
